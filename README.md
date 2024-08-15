@@ -2,4 +2,4 @@
 
 ---
 
-Computer Engineering Student at [UCS](https://ucs.br) and fullstack software developer.
+Computer Science Student and Fullstack software Engineer.
