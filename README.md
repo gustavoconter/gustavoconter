@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Gustavo
+### Gustavo Conte
 
----
+Software engineer. Porto Alegre.
 
-Computer Science Student and Fullstack software Engineer.
+[gustavoconte.dev](https://gustavoconte.dev)
